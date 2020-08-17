@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="3" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="0">
+<testcase classname="Buscar produto na Saraiva" name="Adicionar produto no carrinho de compra" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Dado que eu acesse o site da Submarino......................................undefined
+E efetue a busca por um produto no campo de pesquisa........................undefined
+Quando selecionar o produto desejado........................................undefined
+E adicionar o produto no carrinho de compras................................undefined
+Entao validar se o produto se encontra no carrinho de compras...............undefined
+]]></failure>
+</testcase>
+<testcase classname="Buscar produto na Saraiva" name="Deletar produto no carrinho de compra" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Dado que eu acesse o site da Submarino......................................undefined
+E efetue a busca por um produto no campo de pesquisa........................undefined
+Quando selecionar o produto desejado........................................undefined
+E adicionar o produto no carrinho de compras................................undefined
+E deletar o produto adicionado no carrinho..................................undefined
+Entao o sistema deve mostrar alerta.........................................undefined
+]]></failure>
+</testcase>
+<testcase classname="Buscar produto na Saraiva" name="Adicionar mais de um item do produto no carrinho de compra" time="0">
+<failure message="The scenario has pending or undefined step(s)"><![CDATA[Dado que eu acesse o site da Submarino......................................undefined
+E efetue a busca por um produto no campo de pesquisa........................undefined
+Quando selecionar o produto desejado........................................undefined
+E adicionar o produto no carrinho de compras................................undefined
+E adicionar mais de um item.................................................undefined
+Entao deve conter dois itens no carrinho do mesmo produto...................undefined
+]]></failure>
+</testcase>
+</testsuite>
